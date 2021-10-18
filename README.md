@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub Cemal Yılmaz 820210317
 
 ## 🤓 Course overview and learning outcomes 
 
