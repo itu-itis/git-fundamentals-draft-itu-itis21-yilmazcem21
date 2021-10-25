@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub Cemal Yılmaz 820210317
+# :wave: The Basics of GitHub Cemal Yılmaz 820210317 11.21 25.10.2021
 
 ## 🤓 Course overview and learning outcomes 
 
